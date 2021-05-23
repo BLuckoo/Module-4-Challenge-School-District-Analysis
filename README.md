@@ -2,7 +2,7 @@
 #
 ### **Overview of the Analysis**
 
-This analysis is to determine the compile the data from the PyCity School District Board to determine whether spending per student has an impact on their grades.
+This analysis is to compile the data from the PyCity School District Board to determine whether spending per student has an impact on their grades.
 
 The analysis will be based on a dataset provided by the School District Board.
 
