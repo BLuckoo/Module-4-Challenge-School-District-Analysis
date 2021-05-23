@@ -73,6 +73,18 @@ The analysis will be comprised of the following components:
 ##
 
   ![image](https://user-images.githubusercontent.com/82583576/119278450-5c01c900-bbf3-11eb-8341-9133fdd09144.png)
+  
+##
+
+- A compilation and grouping of average scores by school type was also completed. 
+  The chart below shows the results:
+  
+##
+
+  ![image](https://user-images.githubusercontent.com/82583576/119278612-53f65900-bbf4-11eb-9ef6-24549ebfffef.png)
+
+
+  
 
 
 
