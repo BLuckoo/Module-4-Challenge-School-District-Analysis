@@ -30,23 +30,54 @@ The analysis will be comprised of the following components:
 
   ![image](https://user-images.githubusercontent.com/82583576/119277455-d29bc800-bbed-11eb-8e31-8a17819f32ae.png)
   
+##  
 - Using sorting functions within Python, a list of the top five schools based on overall passing percentages is as follows:
 
   ![image](https://user-images.githubusercontent.com/82583576/119277711-2f4bb280-bbef-11eb-8640-7ed43c70facd.png)
   
+##  
 - Using the same sorting principle as above with a change in the sorting order, a list of the bottom five schools based on overall passing percentages is as follows:
  
   ![image](https://user-images.githubusercontent.com/82583576/119277772-82be0080-bbef-11eb-97f1-ad27d557e88f.png)
 
+##
 - The average scores for each grade in each school for Math and Reading were compiled from the dataset using conditional and formatting concepts. The results are as follows:
 
     - Average Math Scores by School
       
        ![image](https://user-images.githubusercontent.com/82583576/119277946-6a021a80-bbf0-11eb-8977-bda0c877ef97.png)
-       
+  ##   
     - Average Reading Scores by School
 
       ![image](https://user-images.githubusercontent.com/82583576/119277993-a897d500-bbf0-11eb-8084-40ca41eeacc6.png)
+##   
+   
+- By setting up spending ranges based on an analysis of the budget per student amounts, each school was categorized in one spending range. 
+  The following table shows the details for each school and which spending range they fall within:
+  
+##  
+  ![image](https://user-images.githubusercontent.com/82583576/119278166-90748580-bbf1-11eb-901c-4076c4c32704.png)
+##  
+  The above data has been further summarized by grouping the schools based on the spending range they fall within. The table below shows the results of the grouping:
+  
+##  
+  ![image](https://user-images.githubusercontent.com/82583576/119278236-f3feb300-bbf1-11eb-823c-024810c63487.png)
+##
+- The effect of student population size on the grades was also analyzed. The table below illustrates the result:
+
+##
+  ![image](https://user-images.githubusercontent.com/82583576/119278389-f7466e80-bbf2-11eb-9d7c-5caf53712dde.png)
+  
+##  
+  The above data has been summarized by grouping the schools based on their student population size, as follows:
+##
+
+  ![image](https://user-images.githubusercontent.com/82583576/119278450-5c01c900-bbf3-11eb-8341-9133fdd09144.png)
+
+
+
+  
+
 
  
       
