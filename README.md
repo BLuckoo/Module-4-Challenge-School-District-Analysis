@@ -9,15 +9,15 @@ The analysis will be based on a dataset provided by the School District Board.
 An original analysis was completed but the Board found out that there were some academic dishonesty and hence, a new analysis will be done by isolating those cases.
 
 The analysis will be comprised of the following components:
-1. Clean the provided dataset by removing professional and gender related prefixes and suffixes 
+1. Cleaning the provided dataset by removing professional and gender related prefixes and suffixes 
 2. Removing the reading and math scores of the grade 9 students from Thomas High School, where the academic dishonesty was discovered
-3. Calculate the average scores and passing rates of all the schools in the district
+3. Calculating the average scores and passing rates of all the schools in the district
 4. Identifying the top five and the bottom five schools based on the overall passing percentages of the students
 5. Calculating the Math and the Reading scores averages of each grade at each school
 6. Calculating the average scores based on spending ranges by students
 7. Calculating the average scores based on school size
 8. Calculating the average scores based on school type
-9. Comments on how the results of the analysis were affected by the academic dishonesty
+9. Commenting on how the results of the analysis were affected by the academic dishonesty
 ##
 ##
 ### **School District Analysis Findings**
