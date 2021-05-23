@@ -10,10 +10,10 @@ An original analysis was completed but the Board found out that there were some 
 
 The analysis will be comprised of the following components:
 1. Cleaning the provided dataset by removing professional and gender related prefixes and suffixes 
-2. Removing the reading and math scores of the grade 9 students from Thomas High School, where the academic dishonesty was discovered
+2. Removing the math and reading math scores of the grade 9 students from Thomas High School, where the academic dishonesty was discovered
 3. Calculating the average scores and passing rates of all the schools in the district
 4. Identifying the top five and the bottom five schools based on the overall passing percentages of the students
-5. Calculating the Math and the Reading scores averages of each grade at each school
+5. Calculating the math and the reading scores averages of each grade at each school
 6. Calculating the average scores based on spending ranges by students
 7. Calculating the average scores based on school size
 8. Calculating the average scores based on school type
@@ -99,6 +99,8 @@ Based on the dataset provided by the School District Board, we can infer the fol
 5. The medium-sized schools, with a student population between 1,000 to 2,000 has the highest overall passing percentage.
 
 6. The charter schools have a much higher overall passing percentage than the district schools, 90% versus 54%.
+
+7. There may be a need to collect further data and more analysis may be required to find out if class size and socio-economic factors contribute to the lower pass rate in the larger schools.
 
 
 
