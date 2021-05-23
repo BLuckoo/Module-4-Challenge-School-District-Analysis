@@ -43,6 +43,11 @@ The analysis will be comprised of the following components:
     - Average Math Scores by School
       
        ![image](https://user-images.githubusercontent.com/82583576/119277946-6a021a80-bbf0-11eb-8977-bda0c877ef97.png)
+       
+    - Average Reading Scores by School
+
+      ![image](https://user-images.githubusercontent.com/82583576/119277993-a897d500-bbf0-11eb-8084-40ca41eeacc6.png)
+
  
       
     
