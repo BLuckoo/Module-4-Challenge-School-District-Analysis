@@ -83,8 +83,22 @@ The analysis will be comprised of the following components:
 
   ![image](https://user-images.githubusercontent.com/82583576/119278612-53f65900-bbf4-11eb-9ef6-24549ebfffef.png)
 
+##
+### **Summary of the Analysis**
 
-  
+Based on the dataset provided by the School District Board, we can infer the following based on the above analysis:
+
+1. The academic dishonesty that occurred at Thomas High School 9th grade, did not have a significant effect on the overall passing % of the school district as the number of students involved is minimal compared to the whole student population attending all 15 schools. There were only 461 students involved on a total of 39,170 (i.e. 1.1%).
+
+2. The top 5 schools all have an average overall passing grade over 90%.
+
+3. The bottom 5 schools all have an average overall passing grade of over 50%.
+
+4. The overall passing grade percentage is inversely related to the spending budget per student. There may be a need to find out where the spending is being directed.
+
+5. The medium-sized schools, with a student population between 1,000 to 2,000 has the highest overall passing percentage.
+
+6. The charter schools have a much higher overall passing percentage than the district schools, 90% versus 54%.
 
 
 
